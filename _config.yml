@@ -12,6 +12,6 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-  - cv.html
+  - cv.md
 
 theme: jekyll-theme-cayman
