@@ -14,4 +14,9 @@ include:
   - PULL_REQUEST_TEMPLATE.md
   - cv.md
 
+- title: About
+  url: /README.md
+- title: Team
+  url: /cv.md
+
 theme: jekyll-theme-cayman
