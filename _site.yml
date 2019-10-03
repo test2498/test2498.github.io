@@ -1,0 +1,28 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  type: inverse
+  left:
+    - text: "Readme"
+      icon: fa-home
+      href: Readme.md
+    - text: "CV"
+      icon: fa-info
+      href: cv.md
+    - text: "More"
+      icon: fa-gear
+      menu:
+        - text: "Heading 1"
+        - text: "Page A"
+          href: cv.md
+        - text: "Page B"
+          href: cd.md
+        - text: "---------"
+        - text: "Heading 2"
+        - text: "Page C"
+          href: cd.md
+        - text: "Page D"
+          href: cd.md
+  right:
+    - icon: fa-question fa-lg
+      href: https://github.com
